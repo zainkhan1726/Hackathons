@@ -1,4 +1,3 @@
-// scripts.ts
 const skillsButton = document.getElementById("skillsButton") as HTMLButtonElement;
 const skillsList = document.getElementById("skillsList") as HTMLUListElement;
 
